@@ -8,4 +8,4 @@ const getName = (name, data) => {
 };
 
 console.log(getName(name, data));
-console.log("more codes");
+alert("hello");
