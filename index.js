@@ -8,4 +8,4 @@ const getName = (name, data) => {
 };
 
 console.log(getName(name, data));
-alert("hello");
+confirm("pick a name here");
